@@ -6,3 +6,10 @@ This project aims to summarize long text documents into concise summaries using 
 ### Key Features<br>
 * Integration with Transformers: Utilized Hugging Face's transformers library to load pre-trained models for summarization.
 * Interactive App: Developed a user-friendly Streamlit application where users can input lengthy text for summarization.
+
+### Usage
+To run the Text Summarization app:<br>
+
+* Ensure all dependencies are installed.
+* Run the Streamlit app:<br>
+streamlit run app_summarization.py
